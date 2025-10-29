@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+.venv_ollama/
+venv/
+venv_ollama/
+
+# ChromaDB storage
+chroma_db/
+chroma_db_*/
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment files
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
